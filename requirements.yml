@@ -3,6 +3,7 @@
   version: master
 
 # The git repository for this project
-- src: https://github.com/hhellbusch/2019-rhte-openshift-gitops-lab.git
+- src: https://github.com/hhellbusch/rhte-2019-openshift-gitops-lab.git
   name: self
+  scm: git
   version: master
